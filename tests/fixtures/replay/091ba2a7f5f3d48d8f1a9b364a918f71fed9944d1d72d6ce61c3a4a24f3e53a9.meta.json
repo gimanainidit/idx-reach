@@ -1,0 +1,8 @@
+{
+  "url": "https://www.idx.co.id/primary/ListedCompany/GetCompanyProfiles?emitenType=s&start=0&length=9999",
+  "status": 200,
+  "headers": {
+    "content-type": "application/json; charset=utf-8"
+  },
+  "fetched_at": "2026-11-09T00:00:00+00:00"
+}

@@ -1,0 +1,2261 @@
+{
+  "ResultCount": 745,
+  "SearchParams": {
+    "DateFrom": "2023-11-09T00:00:00",
+    "DateTo": "2026-11-09T00:00:00",
+    "Emiten": "",
+    "Keyword": "Pemantauan Khusus"
+  },
+  "Replies": [
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-01T00:00:00",
+        "NoPengumuman": "Peng-SPT-00000/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "TECH  "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-02T00:00:00",
+        "NoPengumuman": "Peng-SPT-00001/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-03T00:00:00",
+        "NoPengumuman": "Peng-SPT-00002/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-04T00:00:00",
+        "NoPengumuman": "Peng-SPT-00003/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-05T00:00:00",
+        "NoPengumuman": "Peng-SPT-00004/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-06T00:00:00",
+        "NoPengumuman": "Peng-SPT-00005/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-07T00:00:00",
+        "NoPengumuman": "Peng-SPT-00006/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-08T00:00:00",
+        "NoPengumuman": "Peng-SPT-00007/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-09T00:00:00",
+        "NoPengumuman": "Peng-SPT-00008/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-01T00:00:00",
+        "NoPengumuman": "Peng-SPT-00009/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-02T00:00:00",
+        "NoPengumuman": "Peng-SPT-00010/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-03T00:00:00",
+        "NoPengumuman": "Peng-SPT-00011/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-04T00:00:00",
+        "NoPengumuman": "Peng-SPT-00012/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-05T00:00:00",
+        "NoPengumuman": "Peng-SPT-00013/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-06T00:00:00",
+        "NoPengumuman": "Peng-SPT-00014/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-07T00:00:00",
+        "NoPengumuman": "Peng-SPT-00015/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-08T00:00:00",
+        "NoPengumuman": "Peng-SPT-00016/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-09T00:00:00",
+        "NoPengumuman": "Peng-SPT-00017/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-01T00:00:00",
+        "NoPengumuman": "Peng-SPT-00018/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-02T00:00:00",
+        "NoPengumuman": "Peng-SPT-00019/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-03T00:00:00",
+        "NoPengumuman": "Peng-SPT-00020/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-04T00:00:00",
+        "NoPengumuman": "Peng-SPT-00021/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-05T00:00:00",
+        "NoPengumuman": "Peng-SPT-00022/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-06T00:00:00",
+        "NoPengumuman": "Peng-SPT-00023/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-07T00:00:00",
+        "NoPengumuman": "Peng-SPT-00024/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-08T00:00:00",
+        "NoPengumuman": "Peng-SPT-00025/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-09T00:00:00",
+        "NoPengumuman": "Peng-SPT-00026/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-01T00:00:00",
+        "NoPengumuman": "Peng-SPT-00027/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-02T00:00:00",
+        "NoPengumuman": "Peng-SPT-00028/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-03T00:00:00",
+        "NoPengumuman": "Peng-SPT-00029/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-04T00:00:00",
+        "NoPengumuman": "Peng-SPT-00030/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-05T00:00:00",
+        "NoPengumuman": "Peng-SPT-00031/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-06T00:00:00",
+        "NoPengumuman": "Peng-SPT-00032/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-07T00:00:00",
+        "NoPengumuman": "Peng-SPT-00033/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-08T00:00:00",
+        "NoPengumuman": "Peng-SPT-00034/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-09T00:00:00",
+        "NoPengumuman": "Peng-SPT-00035/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-01T00:00:00",
+        "NoPengumuman": "Peng-SPT-00036/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-02T00:00:00",
+        "NoPengumuman": "Peng-SPT-00037/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-03T00:00:00",
+        "NoPengumuman": "Peng-SPT-00038/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-04T00:00:00",
+        "NoPengumuman": "Peng-SPT-00039/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-05T00:00:00",
+        "NoPengumuman": "Peng-SPT-00040/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-06T00:00:00",
+        "NoPengumuman": "Peng-SPT-00041/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-07T00:00:00",
+        "NoPengumuman": "Peng-SPT-00042/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-08T00:00:00",
+        "NoPengumuman": "Peng-SPT-00043/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-09T00:00:00",
+        "NoPengumuman": "Peng-SPT-00044/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-01T00:00:00",
+        "NoPengumuman": "Peng-SPT-00045/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-02T00:00:00",
+        "NoPengumuman": "Peng-SPT-00046/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-03T00:00:00",
+        "NoPengumuman": "Peng-SPT-00047/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-04T00:00:00",
+        "NoPengumuman": "Peng-SPT-00048/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-05T00:00:00",
+        "NoPengumuman": "Peng-SPT-00049/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-06T00:00:00",
+        "NoPengumuman": "Peng-SPT-00050/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "TECH  "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-07T00:00:00",
+        "NoPengumuman": "Peng-SPT-00051/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-08T00:00:00",
+        "NoPengumuman": "Peng-SPT-00052/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-09T00:00:00",
+        "NoPengumuman": "Peng-SPT-00053/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-01T00:00:00",
+        "NoPengumuman": "Peng-SPT-00054/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-02T00:00:00",
+        "NoPengumuman": "Peng-SPT-00055/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-03T00:00:00",
+        "NoPengumuman": "Peng-SPT-00056/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-04T00:00:00",
+        "NoPengumuman": "Peng-SPT-00057/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-05T00:00:00",
+        "NoPengumuman": "Peng-SPT-00058/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-06T00:00:00",
+        "NoPengumuman": "Peng-SPT-00059/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-07T00:00:00",
+        "NoPengumuman": "Peng-SPT-00060/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-08T00:00:00",
+        "NoPengumuman": "Peng-SPT-00061/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-09T00:00:00",
+        "NoPengumuman": "Peng-SPT-00062/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-01T00:00:00",
+        "NoPengumuman": "Peng-SPT-00063/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-02T00:00:00",
+        "NoPengumuman": "Peng-SPT-00064/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-03T00:00:00",
+        "NoPengumuman": "Peng-SPT-00065/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-04T00:00:00",
+        "NoPengumuman": "Peng-SPT-00066/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-05T00:00:00",
+        "NoPengumuman": "Peng-SPT-00067/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-06T00:00:00",
+        "NoPengumuman": "Peng-SPT-00068/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-07T00:00:00",
+        "NoPengumuman": "Peng-SPT-00069/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-08T00:00:00",
+        "NoPengumuman": "Peng-SPT-00070/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-09T00:00:00",
+        "NoPengumuman": "Peng-SPT-00071/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-01T00:00:00",
+        "NoPengumuman": "Peng-SPT-00072/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-02T00:00:00",
+        "NoPengumuman": "Peng-SPT-00073/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-03T00:00:00",
+        "NoPengumuman": "Peng-SPT-00074/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-04T00:00:00",
+        "NoPengumuman": "Peng-SPT-00075/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-05T00:00:00",
+        "NoPengumuman": "Peng-SPT-00076/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-06T00:00:00",
+        "NoPengumuman": "Peng-SPT-00077/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-07T00:00:00",
+        "NoPengumuman": "Peng-SPT-00078/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-08T00:00:00",
+        "NoPengumuman": "Peng-SPT-00079/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-09T00:00:00",
+        "NoPengumuman": "Peng-SPT-00080/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-01T00:00:00",
+        "NoPengumuman": "Peng-SPT-00081/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-02T00:00:00",
+        "NoPengumuman": "Peng-SPT-00082/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-03T00:00:00",
+        "NoPengumuman": "Peng-SPT-00083/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-04T00:00:00",
+        "NoPengumuman": "Peng-SPT-00084/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-05T00:00:00",
+        "NoPengumuman": "Peng-SPT-00085/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-06T00:00:00",
+        "NoPengumuman": "Peng-SPT-00086/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-07T00:00:00",
+        "NoPengumuman": "Peng-SPT-00087/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-08T00:00:00",
+        "NoPengumuman": "Peng-SPT-00088/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-09T00:00:00",
+        "NoPengumuman": "Peng-SPT-00089/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-01T00:00:00",
+        "NoPengumuman": "Peng-SPT-00090/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-02T00:00:00",
+        "NoPengumuman": "Peng-SPT-00091/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-03T00:00:00",
+        "NoPengumuman": "Peng-SPT-00092/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-04T00:00:00",
+        "NoPengumuman": "Peng-SPT-00093/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-05T00:00:00",
+        "NoPengumuman": "Peng-SPT-00094/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-06T00:00:00",
+        "NoPengumuman": "Peng-SPT-00095/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-07T00:00:00",
+        "NoPengumuman": "Peng-SPT-00096/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-08T00:00:00",
+        "NoPengumuman": "Peng-SPT-00097/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-09T00:00:00",
+        "NoPengumuman": "Peng-SPT-00098/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-01T00:00:00",
+        "NoPengumuman": "Peng-SPT-00099/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-02T00:00:00",
+        "NoPengumuman": "Peng-SPT-00100/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "TECH  "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-03T00:00:00",
+        "NoPengumuman": "Peng-SPT-00101/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-04T00:00:00",
+        "NoPengumuman": "Peng-SPT-00102/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-05T00:00:00",
+        "NoPengumuman": "Peng-SPT-00103/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-06T00:00:00",
+        "NoPengumuman": "Peng-SPT-00104/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-07T00:00:00",
+        "NoPengumuman": "Peng-SPT-00105/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-08T00:00:00",
+        "NoPengumuman": "Peng-SPT-00106/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-09T00:00:00",
+        "NoPengumuman": "Peng-SPT-00107/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-01T00:00:00",
+        "NoPengumuman": "Peng-SPT-00108/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-02T00:00:00",
+        "NoPengumuman": "Peng-SPT-00109/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-03T00:00:00",
+        "NoPengumuman": "Peng-SPT-00110/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-04T00:00:00",
+        "NoPengumuman": "Peng-SPT-00111/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-05T00:00:00",
+        "NoPengumuman": "Peng-SPT-00112/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-06T00:00:00",
+        "NoPengumuman": "Peng-SPT-00113/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-07T00:00:00",
+        "NoPengumuman": "Peng-SPT-00114/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-08T00:00:00",
+        "NoPengumuman": "Peng-SPT-00115/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-09T00:00:00",
+        "NoPengumuman": "Peng-SPT-00116/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-01T00:00:00",
+        "NoPengumuman": "Peng-SPT-00117/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-02T00:00:00",
+        "NoPengumuman": "Peng-SPT-00118/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-03T00:00:00",
+        "NoPengumuman": "Peng-SPT-00119/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-04T00:00:00",
+        "NoPengumuman": "Peng-SPT-00120/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-05T00:00:00",
+        "NoPengumuman": "Peng-SPT-00121/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-06T00:00:00",
+        "NoPengumuman": "Peng-SPT-00122/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-07T00:00:00",
+        "NoPengumuman": "Peng-SPT-00123/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-08T00:00:00",
+        "NoPengumuman": "Peng-SPT-00124/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-09T00:00:00",
+        "NoPengumuman": "Peng-SPT-00125/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-01T00:00:00",
+        "NoPengumuman": "Peng-SPT-00126/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-02T00:00:00",
+        "NoPengumuman": "Peng-SPT-00127/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-03T00:00:00",
+        "NoPengumuman": "Peng-SPT-00128/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-04T00:00:00",
+        "NoPengumuman": "Peng-SPT-00129/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-05T00:00:00",
+        "NoPengumuman": "Peng-SPT-00130/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-06T00:00:00",
+        "NoPengumuman": "Peng-SPT-00131/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-07T00:00:00",
+        "NoPengumuman": "Peng-SPT-00132/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-08T00:00:00",
+        "NoPengumuman": "Peng-SPT-00133/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-09T00:00:00",
+        "NoPengumuman": "Peng-SPT-00134/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-01T00:00:00",
+        "NoPengumuman": "Peng-SPT-00135/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-02T00:00:00",
+        "NoPengumuman": "Peng-SPT-00136/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-03T00:00:00",
+        "NoPengumuman": "Peng-SPT-00137/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-04T00:00:00",
+        "NoPengumuman": "Peng-SPT-00138/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-05T00:00:00",
+        "NoPengumuman": "Peng-SPT-00139/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-06T00:00:00",
+        "NoPengumuman": "Peng-SPT-00140/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-07T00:00:00",
+        "NoPengumuman": "Peng-SPT-00141/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-08T00:00:00",
+        "NoPengumuman": "Peng-SPT-00142/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-09T00:00:00",
+        "NoPengumuman": "Peng-SPT-00143/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-01T00:00:00",
+        "NoPengumuman": "Peng-SPT-00144/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-02T00:00:00",
+        "NoPengumuman": "Peng-SPT-00145/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-03T00:00:00",
+        "NoPengumuman": "Peng-SPT-00146/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-04T00:00:00",
+        "NoPengumuman": "Peng-SPT-00147/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-05T00:00:00",
+        "NoPengumuman": "Peng-SPT-00148/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-06T00:00:00",
+        "NoPengumuman": "Peng-SPT-00149/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-07T00:00:00",
+        "NoPengumuman": "Peng-SPT-00150/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "TECH  "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-08T00:00:00",
+        "NoPengumuman": "Peng-SPT-00151/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-09T00:00:00",
+        "NoPengumuman": "Peng-SPT-00152/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-01T00:00:00",
+        "NoPengumuman": "Peng-SPT-00153/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-02T00:00:00",
+        "NoPengumuman": "Peng-SPT-00154/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-03T00:00:00",
+        "NoPengumuman": "Peng-SPT-00155/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-04T00:00:00",
+        "NoPengumuman": "Peng-SPT-00156/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-05T00:00:00",
+        "NoPengumuman": "Peng-SPT-00157/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-06T00:00:00",
+        "NoPengumuman": "Peng-SPT-00158/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-07T00:00:00",
+        "NoPengumuman": "Peng-SPT-00159/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-08T00:00:00",
+        "NoPengumuman": "Peng-SPT-00160/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-09T00:00:00",
+        "NoPengumuman": "Peng-SPT-00161/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-01T00:00:00",
+        "NoPengumuman": "Peng-SPT-00162/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-02T00:00:00",
+        "NoPengumuman": "Peng-SPT-00163/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-03T00:00:00",
+        "NoPengumuman": "Peng-SPT-00164/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-04T00:00:00",
+        "NoPengumuman": "Peng-SPT-00165/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-05T00:00:00",
+        "NoPengumuman": "Peng-SPT-00166/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-06T00:00:00",
+        "NoPengumuman": "Peng-SPT-00167/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-07T00:00:00",
+        "NoPengumuman": "Peng-SPT-00168/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-08T00:00:00",
+        "NoPengumuman": "Peng-SPT-00169/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-09T00:00:00",
+        "NoPengumuman": "Peng-SPT-00170/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-01T00:00:00",
+        "NoPengumuman": "Peng-SPT-00171/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-02T00:00:00",
+        "NoPengumuman": "Peng-SPT-00172/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-03T00:00:00",
+        "NoPengumuman": "Peng-SPT-00173/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-04T00:00:00",
+        "NoPengumuman": "Peng-SPT-00174/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-05T00:00:00",
+        "NoPengumuman": "Peng-SPT-00175/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-06T00:00:00",
+        "NoPengumuman": "Peng-SPT-00176/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-07T00:00:00",
+        "NoPengumuman": "Peng-SPT-00177/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-08T00:00:00",
+        "NoPengumuman": "Peng-SPT-00178/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-09T00:00:00",
+        "NoPengumuman": "Peng-SPT-00179/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-01T00:00:00",
+        "NoPengumuman": "Peng-SPT-00180/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-02T00:00:00",
+        "NoPengumuman": "Peng-SPT-00181/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-03T00:00:00",
+        "NoPengumuman": "Peng-SPT-00182/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-04T00:00:00",
+        "NoPengumuman": "Peng-SPT-00183/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-05T00:00:00",
+        "NoPengumuman": "Peng-SPT-00184/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-06T00:00:00",
+        "NoPengumuman": "Peng-SPT-00185/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-07T00:00:00",
+        "NoPengumuman": "Peng-SPT-00186/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-08T00:00:00",
+        "NoPengumuman": "Peng-SPT-00187/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-09T00:00:00",
+        "NoPengumuman": "Peng-SPT-00188/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-01T00:00:00",
+        "NoPengumuman": "Peng-SPT-00189/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-02T00:00:00",
+        "NoPengumuman": "Peng-SPT-00190/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-03T00:00:00",
+        "NoPengumuman": "Peng-SPT-00191/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-04T00:00:00",
+        "NoPengumuman": "Peng-SPT-00192/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-05T00:00:00",
+        "NoPengumuman": "Peng-SPT-00193/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-06T00:00:00",
+        "NoPengumuman": "Peng-SPT-00194/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-07T00:00:00",
+        "NoPengumuman": "Peng-SPT-00195/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-08T00:00:00",
+        "NoPengumuman": "Peng-SPT-00196/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-09T00:00:00",
+        "NoPengumuman": "Peng-SPT-00197/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-01T00:00:00",
+        "NoPengumuman": "Peng-SPT-00198/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-02T00:00:00",
+        "NoPengumuman": "Peng-SPT-00199/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-03T00:00:00",
+        "NoPengumuman": "Peng-SPT-00200/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "TECH  "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-04T00:00:00",
+        "NoPengumuman": "Peng-SPT-00201/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-05T00:00:00",
+        "NoPengumuman": "Peng-SPT-00202/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-06T00:00:00",
+        "NoPengumuman": "Peng-SPT-00203/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-07T00:00:00",
+        "NoPengumuman": "Peng-SPT-00204/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-08T00:00:00",
+        "NoPengumuman": "Peng-SPT-00205/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-09T00:00:00",
+        "NoPengumuman": "Peng-SPT-00206/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-01T00:00:00",
+        "NoPengumuman": "Peng-SPT-00207/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-02T00:00:00",
+        "NoPengumuman": "Peng-SPT-00208/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-03T00:00:00",
+        "NoPengumuman": "Peng-SPT-00209/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-04T00:00:00",
+        "NoPengumuman": "Peng-SPT-00210/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-05T00:00:00",
+        "NoPengumuman": "Peng-SPT-00211/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-06T00:00:00",
+        "NoPengumuman": "Peng-SPT-00212/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-07T00:00:00",
+        "NoPengumuman": "Peng-SPT-00213/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-08T00:00:00",
+        "NoPengumuman": "Peng-SPT-00214/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-09T00:00:00",
+        "NoPengumuman": "Peng-SPT-00215/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-01T00:00:00",
+        "NoPengumuman": "Peng-SPT-00216/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-02T00:00:00",
+        "NoPengumuman": "Peng-SPT-00217/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-03T00:00:00",
+        "NoPengumuman": "Peng-SPT-00218/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-04T00:00:00",
+        "NoPengumuman": "Peng-SPT-00219/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-05T00:00:00",
+        "NoPengumuman": "Peng-SPT-00220/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-06T00:00:00",
+        "NoPengumuman": "Peng-SPT-00221/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-07T00:00:00",
+        "NoPengumuman": "Peng-SPT-00222/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-08T00:00:00",
+        "NoPengumuman": "Peng-SPT-00223/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-09T00:00:00",
+        "NoPengumuman": "Peng-SPT-00224/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-01T00:00:00",
+        "NoPengumuman": "Peng-SPT-00225/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-02T00:00:00",
+        "NoPengumuman": "Peng-SPT-00226/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-03T00:00:00",
+        "NoPengumuman": "Peng-SPT-00227/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-04T00:00:00",
+        "NoPengumuman": "Peng-SPT-00228/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-05T00:00:00",
+        "NoPengumuman": "Peng-SPT-00229/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-06T00:00:00",
+        "NoPengumuman": "Peng-SPT-00230/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-07T00:00:00",
+        "NoPengumuman": "Peng-SPT-00231/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-08T00:00:00",
+        "NoPengumuman": "Peng-SPT-00232/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-09T00:00:00",
+        "NoPengumuman": "Peng-SPT-00233/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-01T00:00:00",
+        "NoPengumuman": "Peng-SPT-00234/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-02T00:00:00",
+        "NoPengumuman": "Peng-SPT-00235/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-03T00:00:00",
+        "NoPengumuman": "Peng-SPT-00236/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-04T00:00:00",
+        "NoPengumuman": "Peng-SPT-00237/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-05T00:00:00",
+        "NoPengumuman": "Peng-SPT-00238/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-06T00:00:00",
+        "NoPengumuman": "Peng-SPT-00239/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-07T00:00:00",
+        "NoPengumuman": "Peng-SPT-00240/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-08T00:00:00",
+        "NoPengumuman": "Peng-SPT-00241/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-09T00:00:00",
+        "NoPengumuman": "Peng-SPT-00242/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-01T00:00:00",
+        "NoPengumuman": "Peng-SPT-00243/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-02T00:00:00",
+        "NoPengumuman": "Peng-SPT-00244/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-03T00:00:00",
+        "NoPengumuman": "Peng-SPT-00245/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-04T00:00:00",
+        "NoPengumuman": "Peng-SPT-00246/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-05T00:00:00",
+        "NoPengumuman": "Peng-SPT-00247/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-06T00:00:00",
+        "NoPengumuman": "Peng-SPT-00248/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    },
+    {
+      "pengumuman": {
+        "TglPengumuman": "2026-10-07T00:00:00",
+        "NoPengumuman": "Peng-SPT-00249/BEI.PP3/10-2026",
+        "JudulPengumuman": "Pemantauan Khusus - replika sintetis",
+        "Kode_Emiten": "    "
+      },
+      "attachments": []
+    }
+  ]
+}

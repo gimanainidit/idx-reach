@@ -1,0 +1,27 @@
+{
+  "ResultCount": 1,
+  "SearchParams": {
+    "DateFrom": "2023-11-09T00:00:00",
+    "DateTo": "2026-11-09T00:00:00",
+    "Emiten": "",
+    "Keyword": "Pemantauan Khusus"
+  },
+  "Replies": [
+    {
+      "pengumuman": {
+        "TglPengumuman": "2025-07-01T00:00:00",
+        "NoPengumuman": "Peng-S-00016/BEI.PLP/07-2025",
+        "JudulPengumuman": "Penghentian Sementara Perdagangan Efek - replika sintetis",
+        "Kode_Emiten": "   "
+      },
+      "attachments": [
+        {
+          "File_Name": "Peng-S-00016.pdf",
+          "File_Path": "/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/replica.pdf",
+          "File_Size": 123456,
+          "File_Modified": "2025-07-01T09:00:00"
+        }
+      ]
+    }
+  ]
+}

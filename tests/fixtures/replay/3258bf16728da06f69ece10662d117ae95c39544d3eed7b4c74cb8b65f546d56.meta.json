@@ -1,0 +1,8 @@
+{
+  "url": "https://www.idx.co.id/primary/ListedCompany/GetFinancialReport?indexFrom=1&pageSize=12&year=2024&reportType=rdf&EmitenType=s&periode=audit&kodeEmiten=LUCK&SortColumn=KodeEmiten&SortOrder=asc",
+  "status": 200,
+  "headers": {
+    "content-type": "application/json; charset=utf-8"
+  },
+  "fetched_at": "2026-11-09T00:00:00+00:00"
+}

@@ -1,0 +1,51 @@
+[project]
+name = "idx-reach"
+version = "0.1.0"
+description = "Fetch Indonesia Stock Exchange (IDX/BEI) data for researchers, through a real browser."
+license = "GPL-2.0-only"
+license-files = ["LICENSE"]
+readme = "README.md"
+authors = [
+    { name = "Mochamad Iqbal Fawzan", email = "labibeduph@gmail.com" }
+]
+requires-python = ">=3.11"
+dependencies = [
+    "playwright>=1.64.1",
+    "pymupdf>=2.1",
+    "typer>=0.28.0",
+]
+
+[build-system]
+requires = ["uv_build>=0.10.7,<0.11.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.2.0",
+    "pytest-asyncio>=1.4.1.post1",
+    "ruff>=0.17.4",
+]
+
+[project.scripts]
+idx-reach = "idx_reach.cli:app"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+asyncio_default_fixture_loop_scope = "function"
+addopts = "-m 'not network'"
+markers = [
+    "network: exercises the live IDX site; deselected by default (Global Constraint 1)",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM", "ANN"]
+# IDX hands back untyped JSON. The decoding helpers narrow it with isinstance
+# checks; annotating their inputs as anything but Any would be a lie.
+ignore = ["ANN401"]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/*" = ["ANN"]

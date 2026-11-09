@@ -1,0 +1,8 @@
+{
+  "url": "https://www.idx.co.id/primary/ListedCompany/GetAnnouncement?indexFrom=0&pageSize=2&keyword=Pencabutan",
+  "status": 200,
+  "headers": {
+    "content-type": "application/json; charset=utf-8"
+  },
+  "fetched_at": "2026-11-09T00:00:00+00:00"
+}
